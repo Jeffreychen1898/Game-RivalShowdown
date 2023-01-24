@@ -1,0 +1,33 @@
+# to find the value of the color
+# go to editor.p5js.org
+# paste in this line of code and run the program
+# the number should appear in the console
+
+# const colorRed = 255;
+# const colorGreen = 0;
+# const colorBlue = 0;
+# 
+# function setup() {
+#	createCanvas(400, 400);
+#	let value = 0;
+#	value = value | colorRed;
+#	value = value << 8;
+#	value = value | colorGreen;
+#	value = value << 8;
+#	value = value | colorBlue;
+#	console.log(value);
+# }
+# function draw() {
+# }
+
+name = Pyromancer
+color = 16711680
+
+speed = 300
+health = 5
+attack = 2000
+
+walking-frame-count = 5
+walking-frame-rate = 10
+shooting-frame-count = 4
+shooting-frame-rate = 10

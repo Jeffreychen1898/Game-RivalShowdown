@@ -1,0 +1,19 @@
+# The following are the keybindings for the game RivalShowdown: Gun's Blazing
+# The numbers for each keybindings are the KeyCodes that Processing uses
+
+game-state-transition = 32
+
+left-player-shoot = 70
+right-player-shoot = 16
+
+left-player-up = 87
+left-player-down = 83
+left-player-left = 65
+left-player-right = 68
+
+right-player-up = 38
+right-player-down = 40
+right-player-left = 37
+right-player-right = 39
+
+restart = 49

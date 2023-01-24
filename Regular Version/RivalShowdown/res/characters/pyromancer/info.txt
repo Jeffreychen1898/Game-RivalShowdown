@@ -1,0 +1,18 @@
+#name
+Pyromancer
+#walking frame count
+5
+#walking frame rate
+10
+#shooting frame count
+4
+#shooting frame rate
+10
+#speed
+300
+#fire rate
+100
+#health
+5
+#attack
+2000

@@ -1,0 +1,71 @@
+[
+	{
+		"tilesize": 16,
+		"tilecount": 5
+	},
+	{
+		"color": {
+			"red": 0,
+			"green": 255,
+			"blue": 0
+		},
+		"index": 0,
+		"framecount": 1,
+		"framerate": 1,
+		"damage": 0,
+		"speed": 1,
+		"wall": false
+	},
+	{
+		"color": {
+			"red": 0,
+			"green": 150,
+			"blue": 0
+		},
+		"index": 1,
+		"framecount": 1,
+		"framerate": 1,
+		"damage": 0,
+		"speed": 1,
+		"wall": true
+	},
+	{
+		"color": {
+			"red": 120,
+			"green": 90,
+			"blue": 0
+		},
+		"index": 2,
+		"framecount": 1,
+		"framerate": 1,
+		"damage": 0,
+		"speed": 1,
+		"wall": false
+	},
+	{
+		"color": {
+			"red": 255,
+			"green": 0,
+			"blue": 0
+		},
+		"index": 3,
+		"framecount": 1,
+		"framerate": 1,
+		"damage": 0,
+		"speed": 1,
+		"wall": true
+	},
+	{
+		"color": {
+			"red": 0,
+			"green": 0,
+			"blue": 255
+		},
+		"index": 4,
+		"framecount": 16,
+		"framerate": 15,
+		"damage": 0,
+		"speed": 0.2,
+		"wall": false
+	}
+]

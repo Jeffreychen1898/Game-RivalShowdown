@@ -1,0 +1,33 @@
+# to find the value of the color
+# go to editor.p5js.org
+# paste in this line of code and run the program
+# the number should appear in the console
+
+# const colorRed = 255;
+# const colorGreen = 0;
+# const colorBlue = 0;
+# 
+# function setup() {
+#	createCanvas(400, 400);
+#	let value = 0;
+#	value = value | colorRed;
+#	value = value << 8;
+#	value = value | colorGreen;
+#	value = value << 8;
+#	value = value | colorBlue;
+#	console.log(value);
+# }
+# function draw() {
+# }
+
+name = Xecel
+color = 16757760
+
+speed = 4000
+health = 1000
+attack = 90
+
+walking-frame-count = 2
+walking-frame-rate = 10
+shooting-frame-count = 2
+shooting-frame-rate = 5

@@ -1,0 +1,2 @@
+help ----- get the list of commands
+clear ----- clears the screen
